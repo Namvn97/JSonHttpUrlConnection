@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">JSonHttpUrlConnection</string>
+    <string name="string_repo_name">Name:</string>
+    <string name="string_repo_laguage">Laguage:</string>
+    <string name="string_repo_owner">Owner:</string>
 </resources>
 
